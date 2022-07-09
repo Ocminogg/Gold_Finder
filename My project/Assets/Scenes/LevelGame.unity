@@ -175,7 +175,7 @@ MonoBehaviour:
   CellSize: 50
   CellSpacing: 15
   FieldSize: 10
-  InitCellsCount: 90
+  InitCellsCount: 50
   cellPref: {fileID: 7213418813417090748, guid: 3cafbac2c5ac36745bcc8ac0f032cd51, type: 3}
   rt: {fileID: 76886645}
   image: {fileID: 0}
