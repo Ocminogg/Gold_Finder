@@ -82,7 +82,7 @@ public class GameCounter : MonoBehaviour
     {
         ShovelsCount = points;
         shovelsText.text = ShovelsCount.ToString();
-        if ((ShovelsCount == 0) && (FindGolds < Golds ))
+        if ((ShovelsCount <= 0) && (FindGolds < Golds ))
         {
             Lose();
         }
